@@ -37,7 +37,7 @@ This project bridges that gap by integrating **Grad-CAM**, allowing visualizatio
 ## 🧩 Tech Stack
 
 * **Language:** Python
-* **Frameworks/Libraries:** TensorFlow / Keras, NumPy, OpenCV, Matplotlib
+* **Frameworks/Libraries:** PyTorch , NumPy, OpenCV, Matplotlib
 * **Visualization:** Grad-CAM heatmaps for model interpretability
 * **Environment:** Jupyter Notebook
 
